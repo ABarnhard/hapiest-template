@@ -1,0 +1,12 @@
+{
+  "name": "hapiest",
+  "version": "0.0.0",
+  "homepage": "https://github.com/abarnhard/hapiest-template",
+  "authors": [
+    "Adam Barnhard <admbarn@gmail.com>"
+  ],
+  "description": "The HAPIEST Template",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
